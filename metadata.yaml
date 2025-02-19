@@ -1,0 +1,36 @@
+_repo: The-Grand-Fleet-1914-1916-b-its-creation-development-and-work_75323
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jellicoe, John Rushworth
+    alias: Jellicoe, John Rushworth Jellicoe, Earl
+    birthdate: 1859
+    deathdate: 1935
+    gutenberg_agent_id: '3521'
+    url: http://www.gutenberg.org/2009/agents/3521
+    wikipedia: https://en.wikipedia.org/wiki/John_Jellicoe,_1st_Earl_Jellicoe
+description: ''
+gutenberg_issued: '2025-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75323'
+  lccn: '19004993'
+language: en
+pgterms:marc904: https://archive.org/details/grandfleet19141900jell
+pgterms:marc905: 20231217125538jellicoe
+pgterms:marc906: '1919'
+pgterms:marc907: US
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bGeorge H. Doran Company, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Naval operations'
+- !lcsh 'Great Britain. Royal Navy'
+- !lcsh 'Jutland, Battle of, 1916'
+- !lcc 'D501'
+- GITenberg
+title: 'The Grand Fleet, 1914-1916 : $b its creation, development and work'
+url: http://www.gutenberg.org/ebooks/75323
