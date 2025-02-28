@@ -1,5 +1,8 @@
 _repo: The-Grand-Fleet-1914-1916-b-its-creation-development-and-work_75323
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75323-h/images/cover.jpg
 creator:
   author:
     agent_name: Jellicoe, John Rushworth
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3521
     wikipedia: https://en.wikipedia.org/wiki/John_Jellicoe,_1st_Earl_Jellicoe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75323#The-Grand-Fleet-1914-1916-b-its-creation-development-and-work
 gutenberg_issued: '2025-02-08'
 gutenberg_type: Text
 identifiers:
